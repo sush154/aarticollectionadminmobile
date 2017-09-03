@@ -1,0 +1,8 @@
+{
+  "name": "collectionadmin",
+  "app_id": "a14bdb1c",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
